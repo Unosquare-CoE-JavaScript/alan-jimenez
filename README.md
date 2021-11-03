@@ -1,5 +1,4 @@
 <h1 align="center">Center Of Excellence: JavaScript</h1>
-<hr />
 
 <!-- Logos -->
 <div align="center">
