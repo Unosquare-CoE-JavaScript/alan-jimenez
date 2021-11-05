@@ -12,4 +12,6 @@
 - [Playing with digits](./katas/Playing-with-digits.md)
 - [Dubstep](./katas/Dubstep.md)
 - [Stop gninnipS my sdroWs](./katas/Stop-gninnipS-my-sdroW.md)
-
+- [Credit card mask](./challenge/katas/Credit-card-mask.md)
+- [Exes and Ohs](./challenge/katas/Exes-and-Ohs.md)
+- [Letter accumulator](./challenge/katas/Letter-accumulator.md)
