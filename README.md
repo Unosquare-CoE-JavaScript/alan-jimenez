@@ -15,3 +15,6 @@
 - [Credit card mask](./challenge/katas/Credit-card-mask.md)
 - [Exes and Ohs](./challenge/katas/Exes-and-Ohs.md)
 - [Letter accumulator](./challenge/katas/Letter-accumulator.md)
+- [Get the middle character](./challenge/katas/07_Get-the-middle-character.md)
+- [RGB to Hex Conversion](./challenge/katas/08_RGB-to-Hex-Conversion.md)
+- [Valid Braces](09_Valid-Braces.md)
