@@ -9,12 +9,12 @@
 
 <!-- Table of content -->
 ## Code Challenges
-- [Playing with digits](./katas/Playing-with-digits.md)
-- [Dubstep](./katas/Dubstep.md)
-- [Stop gninnipS my sdroWs](./katas/Stop-gninnipS-my-sdroW.md)
-- [Credit card mask](./challenge/katas/Credit-card-mask.md)
-- [Exes and Ohs](./challenge/katas/Exes-and-Ohs.md)
-- [Letter accumulator](./challenge/katas/Letter-accumulator.md)
-- [Get the middle character](./challenge/katas/07_Get-the-middle-character.md)
-- [RGB to Hex Conversion](./challenge/katas/08_RGB-to-Hex-Conversion.md)
-- [Valid Braces](./challenge/katas/09_Valid-Braces.md)
+- [Playing with digits](./challenges/01-Playing-with-digits/README.md)
+- [Dubstep](./challenges/02-Dubstep/README.md)
+- [Stop gninnipS my sdroWs](./challenges/03-Stop-gninnipS-my-sdroW/README.md)
+- [Credit card mask](./challenges/04-Credit-card-mask/README.md)
+- [Exes and Ohs](./challenges/05-Exes-and-Ohs/README.md)
+- [Letter accumulator](./challenges/06-Letter-accumulator/README.md)
+- [Get the middle character](./challenges/07-Get-the-middle-character/README.md)
+- [RGB to Hex Conversion](./challenges/08-RGB-to-Hex-Conversion/README.md)
+- [Valid Braces](./challenges/09-Valid-Braces/README.md)
