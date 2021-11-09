@@ -8,13 +8,4 @@
 </div>
 
 <!-- Table of content -->
-## Code Challenges
-- [Playing with digits](./challenges/01-Playing-with-digits/)
-- [Dubstep](./challenges/02-Dubstep/)
-- [Stop gninnipS my sdroWs](./challenges/03-Stop-gninnipS-my-sdroW/)
-- [Credit card mask](./challenges/04-Credit-card-mask/)
-- [Exes and Ohs](./challenges/05-Exes-and-Ohs/)
-- [Letter accumulator](./challenges/06-Letter-accumulator/)
-- [Get the middle character](./challenges/07-Get-the-middle-character/)
-- [RGB to Hex Conversion](./challenges/08-RGB-to-Hex-Conversion/)
-- [Valid Braces](./challenges/09-Valid-Braces/)
+- [Codewars Challenges](./challenges/)
