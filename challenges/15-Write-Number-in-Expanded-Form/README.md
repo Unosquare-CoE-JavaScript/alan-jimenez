@@ -1,4 +1,4 @@
-# Write Number in Expaded Form
+# Write Number in Expanded Form
 
 Given a number, return it as a string in Expanded Form.
 
