@@ -9,3 +9,4 @@
 
 <!-- Table of content -->
 - [Codewars Challenges](./challenges/)
+- [.Net](./NetCore/)
