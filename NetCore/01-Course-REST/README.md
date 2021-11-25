@@ -1,5 +1,5 @@
 <h1 align="center">Center Of Excellence: JavaScript</h1>
-
+<h2 align="center">Course REST Web API</h2>
 <!-- Logos -->
 <div align="center">
    <img title="Javascript" height="48" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-48.png" />
@@ -8,5 +8,4 @@
 </div>
 
 <!-- Table of content -->
-- [Codewars Challenges](./challenges/)
-- [.Net](./NetCore/)
+Create a basic Web API using Visual Studio wizard.
