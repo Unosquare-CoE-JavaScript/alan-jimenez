@@ -26,3 +26,6 @@
 <!-- OOP Principles -->
 - [Dry](./oop-principles/DRY.md)
 - [SOLID](./oop-principles/SOLID.md)
+
+## Javascript
+- [Multithread JavaScript](./Multithread-JavaScript.md)

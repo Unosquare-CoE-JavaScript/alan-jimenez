@@ -9,3 +9,6 @@ When database already exists and we migrate the structure or want to migrate cha
 
 ## "Model First" approach
 The database is defined using Entity Data Model Wizard in Visual Studio.
+
+# Notes
+```?``` allows us to set a nullable field
